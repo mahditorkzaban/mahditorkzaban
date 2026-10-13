@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mahditorkzaban/data-science-portfolio/main/assets/banner.svg" alt="Mahdi Torkzaban">
+<img src="https://raw.githubusercontent.com/mahditorkzaban/finance-data-portfolio/main/assets/banner.svg" alt="Mahdi Torkzaban">
 
 <br>
 
-**Financial data analyst** building machine-learning models, valuation tools and production-quality apps.
+**Financial data analyst** applying machine learning and valuation models to financial data.
 
-[🌐 Website](https://www.mahditorkzaban.com) · [💼 Portfolio](https://github.com/mahditorkzaban/data-science-portfolio) · [📧 Email](mailto:mohammadmahdi.torkzaban@studenti.unipd.it)
+[🌐 Website](https://www.mahditorkzaban.com) · [💼 Portfolio](https://github.com/mahditorkzaban/finance-data-portfolio) · [📧 Email](mailto:mohammadmahdi.torkzaban@studenti.unipd.it)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
@@ -26,7 +26,7 @@
 
 ### 🏦 Bankruptcy prediction: ROC-AUC 0.974
 Machine-learning thesis on **255,919 firms**: 60 ratio features, an 8:1 class imbalance, 14 notebooks from feature engineering to tuned neural networks, XGBoost as the final model.
-→ [**Read the case study**](https://github.com/mahditorkzaban/data-science-portfolio/tree/main/projects/01-bankruptcy-prediction)
+→ [**Read the case study**](https://github.com/mahditorkzaban/finance-data-portfolio/tree/main/projects/01-bankruptcy-prediction)
 
 ### 📈 Valuation engine: 15 methods
 DCF (FCFF/FCFE), DDM, multiples, asset-based, Black-Scholes real options, SOTP and LBO, with validated typed inputs and JSON-driven runs.
@@ -38,11 +38,11 @@ Bilingual (English / French) consulting site built with **React 19, TypeScript, 
 
 ### 🗓️ Scheduling and optimisation
 Exam timetabling as **graph colouring** and a jury-assignment heuristic with language and conflict-of-interest rules.
-→ [Exam scheduling](https://github.com/mahditorkzaban/data-science-portfolio/tree/main/projects/04-exam-scheduling) · [Jury scheduling](https://github.com/mahditorkzaban/data-science-portfolio/tree/main/projects/03-jury-scheduling)
+→ [Exam scheduling](https://github.com/mahditorkzaban/finance-data-portfolio/tree/main/projects/04-exam-scheduling) · [Jury scheduling](https://github.com/mahditorkzaban/finance-data-portfolio/tree/main/projects/03-jury-scheduling)
 
 ### 🤖 Document automation
 OCR-based PDF splitting, clause extraction, bulk e-mail and Word batch processing.
-→ [Toolkit](https://github.com/mahditorkzaban/data-science-portfolio/tree/main/projects/05-document-automation)
+→ [Toolkit](https://github.com/mahditorkzaban/finance-data-portfolio/tree/main/projects/05-document-automation)
 
 ### 🇫🇷 FrenchVerbeQuiz
 JSON data set behind an app for learning French verbs.
