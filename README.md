@@ -6,7 +6,7 @@
 
 **Financial data analyst** applying machine learning and valuation models to financial data.
 
-[🌐 Website](https://www.mahditorkzaban.com) · [💼 Portfolio](https://github.com/mahditorkzaban/finance-data-portfolio) · [📧 Email](mailto:mohammadmahdi.torkzaban@studenti.unipd.it)
+[🌐 Website](https://www.mahditorkzaban.com) · [💼 Portfolio](https://github.com/mahditorkzaban/finance-data-portfolio) · [📧 Email](mailto:mahditorkzaban5@gmail.com)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
@@ -56,4 +56,4 @@ JSON data set behind an app for learning French verbs.
 - Speak **English, French and Persian**
 - Open to roles in data science, financial analysis and quantitative research
 
-📫 mohammadmahdi.torkzaban@studenti.unipd.it
+📫 mahditorkzaban5@gmail.com · mohammadmahdi.torkzaban@studenti.unipd.it
